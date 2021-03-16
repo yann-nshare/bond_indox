@@ -1,5 +1,5 @@
 {
-    "manifest version": 2,
+    "manifest_version": 2,
     "name": "Inbox_extension",
     "version": "1.0",
     "default_locale": "fr",
