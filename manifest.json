@@ -1,7 +1,7 @@
 {
     "manifest version": 2,
     "name": "Inbox_extension",
-    "version": "versionString",
+    "version": "1.0",
     "default_locale": "fr",
     "description": "First extension for a inbox",
     "icons": {
