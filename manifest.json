@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "Inbox_extension",
     "version": "1.0",
+    "name": "Inbox_extension",
     "description": "First extension for a inbox",
     "icons": {
         "48": "images/tree.png"
