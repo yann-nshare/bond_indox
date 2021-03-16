@@ -4,8 +4,8 @@
     "version": "versionString",
     "default_locale": "fr",
     "description": "First extension for a inbox",
-    "icons": { "48": "icon.png"},
-    "browser_action": { "default_icon": "icon.png"},
+    "icons": { "48": "images/tree.png"},
+    "browser_action": { "default_icon": "images/tree.png"},
                         "default_popup": "popup.html"
                     }
 
